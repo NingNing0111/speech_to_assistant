@@ -8,5 +8,5 @@
 
 &emsp;如何判断是对话还是绘图？
 
-&emsp;让AI自行判断，详情见:[]()
+&emsp;让AI自行判断，详情见:[openai_service.dart](https://github.com/NingNing0111/speech_to_assistant/blob/master/lib/service/openai_service.dart)
 
